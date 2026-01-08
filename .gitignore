@@ -20,3 +20,8 @@ logs/
 # Model checkpoints
 *.pth
 *.ckpt
+
+# Large experimental artifacts
+30_trainer_datast_list_CIFAR_hete_V*.pickle
+*.pickle
+*.pkl
