@@ -82,3 +82,9 @@ better reflect realistic deployment scenarios.
 
 This code is intended for research and system prototyping purposes.
 It is not optimized for production deployment.
+
+---
+
+## License
+
+MIT License
