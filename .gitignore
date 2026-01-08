@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE / Editor
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+
+# Data & logs
+data/
+logs/
+
+# Model checkpoints
+*.pth
+*.ckpt
